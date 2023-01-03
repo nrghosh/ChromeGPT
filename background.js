@@ -1,4 +1,3 @@
-const openai = require('openai');
 
 // generated new API key
 openai.apiKey = "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";
