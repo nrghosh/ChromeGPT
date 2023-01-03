@@ -5,7 +5,7 @@
   "version": "1.0",
   "permissions": [
     "activeTab",
-    "https://api.openai.com/"
+    "https://api.openai.com/*"
   ],
   "background": {
     "service_worker": "background.js"
