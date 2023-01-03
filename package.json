@@ -1,0 +1,14 @@
+{
+  "name": "gpt-3-chat-extension",
+  "version": "1.0.0",
+  "description": "This extension allows you to ask questions and receive answers from OpenAI's GPT-3 chat API.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Ghosh",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.3.0"
+  }
+}
