@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "GPT-3 Chat Extension",
-  "description": "An extension to ask questions and receive answers from OpenAI's GPT-3 chat API.",
+  "description": "This extension allows you to ask questions and receive answers from OpenAI's GPT-3 chat API.",
   "version": "1.0",
   "permissions": [
     "activeTab",
